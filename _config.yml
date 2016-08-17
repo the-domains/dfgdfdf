@@ -1,0 +1,28 @@
+name: dfgdfdf
+favicon: null
+layout_spectrum: 0.9913763867225498
+typography_spectrum: 0.5230524656362832
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6978465453721583
+  lightness: 0.29752400307916105
+  saturation: 0.4031211787369102
+  rhythmicContrast: 0.09547337354160845
+purpose: []
